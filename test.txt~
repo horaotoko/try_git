@@ -1,2 +1,7 @@
 HELLO GIT
 ADDED MESSAGE
+<<<<<<< HEAD
+HELLO FROM ISSUE2
+=======
+HELLO FROM ISSUE3
+>>>>>>> issue3
